@@ -1,5 +1,5 @@
-## Name : SHYAM SUJIN U
-## Reg no : 212223040201
+## Name : PRASANNA A
+## Reg no : 212223220078
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
